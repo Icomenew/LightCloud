@@ -1,5 +1,5 @@
 
-<center>## LightCloud-云计算技术爱好者协会 邀请信</center>
+## 　　　　LightCloud-云计算技术爱好者协会　邀请信
 
 ### 1.背景：
 
@@ -54,7 +54,7 @@
 
 　自动化安装部署带有HA的OpenStack集群
 
-　项目网址：　prostack.lightcloud.cc
+　项目网址：　http://prostack.lightcloud.cc
 
 　已实现的功能：
 
@@ -111,10 +111,10 @@
 
 ### 9.欢迎加入：
 
-　LightCloud-云计算技术爱好者协会
+　　LightCloud-云计算技术爱好者协会
 
-　　网址：www.lightcloud.cc　（网站建设中，现在和prostack.lightcloud.cc是相同的页面，后续修改）
+　　　　网址：http://www.lightcloud.cc　（网站建设中）
 
-　　QQ群：202581891
+　　　　QQ群：202581891
 
 
