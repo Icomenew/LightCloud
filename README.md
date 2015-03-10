@@ -68,7 +68,7 @@
 
 　　　支持的网络组件：
 
-　　　　nova-network (FlapDHCPManager、VlanManager)
+　　　　nova-network (FlatDHCPManager、VlanManager)
 
 　　　　neutron      (gre、            vxlan)
 
